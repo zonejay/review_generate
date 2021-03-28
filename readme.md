@@ -28,3 +28,5 @@ python main.py
 3. 利用 poweramp 导入 playlist 文件夹
 
 4. 每天通勤的时候循环当天的播放列表就行了
+
+感谢[ebbinghausGenerator](https://github.com/Nancyberry/ebbinghausGenerator)
